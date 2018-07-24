@@ -1,0 +1,77 @@
+/*****************************************************
+ * Magic Mirror                                      *
+ * Custom CSS                                        *
+ *                                                   *
+ * By Michael Teeuw http://michaelteeuw.nl           *
+ * MIT Licensed.                                     *
+ *                                                   *
+ * Add any custom CSS below.                         *
+ * Changes to this files will be ignored by GIT. *
+ *****************************************************/
+body {
+  margin: 6px;
+  height: calc(100% - 15px);
+  width: calc(100% - 15px);
+}
+
+.rouge {
+  color: #B62D2D;
+}
+
+.vert {
+  color: #90EE90;
+}
+
+.orange {
+  color: #FFA500;
+}
+
+.jaune {
+  color: #FFFF00;
+}
+
+.brightb {
+color: #55acee; /*bleu*/
+}
+
+.wi-sunrise {
+color: #ffd700; /*jaune orange*/
+}
+.wi-sunset {
+color: #ffa500; /*orange*/
+}
+.wi-day-sunny {
+color: #ffff00; /*jaune*/
+}
+.wi-night-showers, 
+.wi-rain, 
+.wi-showers, 
+.wi-night-showers, 
+.wi-showers, 
+.wi-night-rain {
+color: #55acee; /*bleu*/
+}
+.wi-degrees {
+color: #415; /*voliet foncé*/
+}
+.wi-night-alt-cloudy-windy,
+.wi-night-cloudy,
+.wi-cloudy,
+.wi-day-cloudy,
+.wi-cloudy,
+.wi-cloudy-windy {
+/*color: #aaa;*/
+color: #F0F0F0 /*gris blanc*/
+}
+.wi-thunderstorm,
+.wi-night-thunderstorm {
+color: #ff00ff; /*violet clair*/
+}
+.wi-fog {
+color: #999; /*gris*/
+}
+.wi-snow,
+.wi-night-clear,
+.wi-night-snow {
+color: #fff; /*blanc*/
+}

@@ -1,0 +1,41 @@
+ 
+.s41 {
+  background-color: #aa3c1f;
+  border-radius: 15px;
+  color: #fff;
+  width: 2em;
+}
+
+.s42 {
+  background-color: #ba622d;
+  border-radius: 15px;
+  color: #fff;
+  width: 2em;
+}
+
+.s8, .s85 {
+  background-color: #4fa433;
+  border-radius: 1.25rem;
+  color: #fff;
+  width: 2em;
+}
+
+.u2 {
+  background-color: #da421e;
+  color: white;
+}
+
+.strm10 {
+  background-color: green;
+  color: white;
+}
+
+.str12 {
+  background-color: #460080;
+  color: white;
+}
+
+.strm1 {
+  background-color: orange;
+  color: white;
+}
